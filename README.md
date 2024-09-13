@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Sonam Tamang 
+<a href="https://linkedin.com/in/sonamtmz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<!--
-**cybercena/cybercena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT student and part-time cybersecurity student.
 
-Here are some ideas to get you started:
+### objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate cybersecuity learner with skills of Networking , programming and linux essentials.I am eager to become a cybersecurity professional with offensive and defensive skills.
+
+### Skills
+
+Basic Networking skills 
+
+Linux 
+
+SQL
+
+Network Traffic Analysis
+
+Network scanning with Nmap
+
