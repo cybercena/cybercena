@@ -1,21 +1,39 @@
-# Hi 👋, I'm Sonam Tamang 
-<a href="https://linkedin.com/in/sonamtmz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I am an IT student and part-time cybersecurity student.
+```
+   _____                             
+  / ____|                            
+ | (___   ___  _ __   __ _ _ __ ___  
+  \___ \ / _ \| '_ \ / _` | '_ ` _ \ 
+  ____) | (_) | | | | (_| | | | | | |
+ |_____/ \___/|_| |_|\__,_|_| |_| |_|
+                                                                                                            
+```
 
-### objective
+## Cybersecurity learner | CTF Player 
 
-I am passionate cybersecuity learner with skills of Networking , programming and linux essentials.I am eager to become a cybersecurity professional with offensive and defensive skills.
+### **Personals:**
+- I'm pursuing Bachelor's degree (BIM)
+- I'm a part time Cybersecurity learner
+- I'm from Nepal 
 
-### Skills
 
-Basic Networking skills 
+### **Certifications**
 
-Linux 
+|                   Name                       |    Issued By     |                                                                                   Verify At                                                                                    |
+| :-------------------------------------------------: | :--------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Introduction to Cybersecurity**        |        Cisco |  [Verify](https://www.credly.com/badges/dd9f1062-d079-424f-bf69-248c61a0746a/public_url) |
+| **Foundations of Cybersecurity**         |       Google |  [Verify](https://www.coursera.org/account/accomplishments/verify/CQMR5MHQSKKK)  |
+|   **Play It Safe: Manage Security Risks**  |    Google |  [Verify](https://www.coursera.org/verify/4BS63BFBNSPU)  |
+| **Networking Basics**                      |Cisco   | [Verify](https://www.credly.com/badges/7f42f3d5-5d39-4fc3-87e8-2c80aa0fbd78/public_url)     |                    
 
-SQL
 
-Network Traffic Analysis
 
-Network scanning with Nmap
+**Peek into my projects:** [GitHub Portfolio](https://github.com/cybercena)  
+**Latest posts:** [/posts]()
 
+### **Ask me about:** 
+- Basics of Cybersecurity
+- Basics of Networking & linux
+- Python Programming 🐍
+
+### **Reach me at:** `cybercena[@]protonmail.com`
