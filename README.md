@@ -1,4 +1,4 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2391773" style='border:none;'></iframe>
+![image](image.png)
 ## Cybersecurity learner | CTF Player 
 
 ### **Personals:**
