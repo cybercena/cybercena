@@ -1,5 +1,4 @@
 ![image](image.png)
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2391773)
 
 
 ## Cybersecurity learner | CTF Player 
