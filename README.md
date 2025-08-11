@@ -26,4 +26,5 @@
 - Basics of Networking & linux
 - Python Programming 🐍
 
+Contact me : ping@sonam.info.np
 
