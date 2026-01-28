@@ -1,4 +1,4 @@
-![image](image.png)
+
 
 ## Cybersecurity learner | CTF Player 
 
